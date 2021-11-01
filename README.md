@@ -1,2 +1,0 @@
-# -
-Another kind of view
